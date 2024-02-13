@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Ama Aljuffry</h1>
 <h3 align="center">I'm a product designer making useful things for the internet and exploring the world.</h3>
 
-- 👨‍💻 All of my projects are available at my github
+- All of my projects are available at my github
 
-- ⚡ Fun fact **I love minimalism**
+- Fun fact **I love minimalism**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
