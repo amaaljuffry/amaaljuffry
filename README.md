@@ -2,6 +2,7 @@
 <h3 align="center">I'm a product designer making useful things for the internet and exploring the world.</h3>
 
 - All of my projects are available at my github
+- Any inquiry hi@ama.ink
 
 
 <h3 align="left">Thank you</h3>
