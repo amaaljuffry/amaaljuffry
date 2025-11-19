@@ -41,6 +41,45 @@
 
 ---
 
+## AI Libraries & Frameworks
+
+### Deep Learning
+- **TensorFlow** – Deep learning library from Google  
+- **Keras** – High-level neural network API (runs on TensorFlow)  
+- **PyTorch** – Deep learning framework widely used in research and production  
+- **MXNet** – Scalable deep learning library (Amazon)  
+- **JAX** – High-performance numerical computing for ML  
+
+### Machine Learning
+- **scikit-learn** – Classic ML for regression, classification, clustering  
+- **XGBoost** – Gradient boosting for structured data  
+- **LightGBM** – Efficient gradient boosting for large datasets  
+- **CatBoost** – Optimized gradient boosting for categorical data  
+
+### Natural Language Processing (NLP)
+- **Hugging Face Transformers** – Pre-trained NLP models (text generation, summarization)  
+- **spaCy** – Industrial-strength NLP library for text processing  
+- **NLTK** – Tokenization, parsing, and linguistic tasks  
+- **TextBlob** – Sentiment analysis, translation, and text processing  
+- **Gensim** – Topic modeling and vector space modeling for text  
+
+### Computer Vision
+- **OpenCV** – Image processing and computer vision  
+- **Pillow (PIL)** – Image manipulation  
+- **Detectron2** – Object detection and segmentation  
+- **Albumentations** – Fast image augmentation  
+
+### Reinforcement Learning
+- **Gym** – OpenAI toolkit for RL environments  
+- **Stable Baselines3** – RL algorithms in PyTorch  
+- **RLlib** – Scalable RL library from Ray  
+
+### Generative AI / LLMs
+- **Diffusers (Hugging Face)** – Diffusion models like Stable Diffusion  
+- **OpenAI API / LangChain** – LLM integration, embeddings, RAG pipelines  
+
+---
+
 ## Blog & Knowledge Sharing
 
 - Regularly publish articles on AI, software engineering, and tech tutorials at [ama24.my](https://ama24.my/)  
