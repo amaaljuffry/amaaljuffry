@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ama
 
-### AI Developer | 4+ Years Experience
+### Developer | 4+ Years Experience
 
 - Building software with a focus on design, detail, and function.
 - Founder PETAI.
