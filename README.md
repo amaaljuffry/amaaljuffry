@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ama
+# Hi, I'm Ama
 
 ### Developer | 4+ Years Experience
 
