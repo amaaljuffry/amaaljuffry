@@ -24,12 +24,6 @@
 
 ---
 
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=amaaljuffry&show_icons=true&locale=en&layout=compact)
-
----
-
 ## Highlights & Achievements
 
 - Built AI-powered microservices and automation pipelines using **FastAPI, Python, and Node.js**  
