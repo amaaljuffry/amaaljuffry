@@ -3,7 +3,7 @@
 ### Developer | 4+ Years Experience
 
 - Founder PETAI (Product Ecosystem, Tech & AI).
-- Building software with a focus on design, detail, and function.
+- Building software with a focus on design, detail, and function from 0 to 1.
 - I'm building a design-engineering studio working with AI companies on interfaces, systems, and marketing sites.
 - Yap a lot at [ama24.my](https://ama24.my/)  
 
